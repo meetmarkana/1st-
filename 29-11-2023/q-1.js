@@ -18,8 +18,4 @@ else{
     else{
         document.write("SOmwthing Went Wrong !!!!")
     }
-
-
-
-
 }
