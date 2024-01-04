@@ -27,6 +27,8 @@ $(document).ready(function(){
    if(pwd != cpwd){
     isValid=false;
     alert("Please Enter Password and Confirm password same!!")
+   }else if(isValid = true){
+      alert("Succsessfully registerd :)")
    }
     })
 })
